@@ -4,7 +4,7 @@
 
 **Whisper Assist** is an intelligent chatbot platform designed to streamline web development workflows by integrating AI-powered tools and providing comprehensive assistance for developers. The platform offers natural language understanding for complex development tasks, seamless tool integration, and guided workflows for any development challenge.
 
-**URL**: https://lovable.dev/projects/26c0f159-a756-47e3-b104-c6bf2345f61c
+**URL**: http://localhost:8080
 
 ## 🚀 Features
 
@@ -67,7 +67,7 @@ npm run dev
 
 The application will be available at `http://localhost:8080`
 
-**Live Demo**: [Try the Whisper Assist Chatbot](https://lovable.dev/projects/26c0f159-a756-47e3-b104-c6bf2345f61c)
+**Live Demo**: [Try the Whisper Assist Chatbot](http://localhost:8080)
 
 ## 🎯 Key Components
 
@@ -116,7 +116,7 @@ src/
 ## 🚀 Deployment
 
 ### Via Lovable
-Simply open [Lovable](https://lovable.dev/projects/26c0f159-a756-47e3-b104-c6bf2345f61c) and click on Share → Publish.
+Simply open [Lovable](http://localhost:8080) and click on Share → Publish.
 
 ### Custom Domain
 To connect a custom domain:
@@ -137,7 +137,7 @@ The platform demonstrates significant improvements:
 ### Development Workflows
 
 **Use Lovable**
-Visit the [Lovable Project](https://lovable.dev/projects/26c0f159-a756-47e3-b104-c6bf2345f61c) and start prompting. Changes are automatically committed to the repository.
+Visit the [Lovable Project](http://localhost:8080) and start prompting. Changes are automatically committed to the repository.
 
 **Use Your Preferred IDE**
 Clone the repository and work locally. Pushed changes will be reflected in Lovable.
